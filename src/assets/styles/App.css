@@ -35,7 +35,7 @@ body{
   .container{
     text-align: center;
     position: relative;
-    top: 50%;
+    top: 35%;
     margin-top: -350px;
     margin-right: auto;
     margin-left: auto;
@@ -121,4 +121,76 @@ body{
 		transform: translate(0) rotate(0) scale(1);
 		opacity: 1;
 	}
+}
+
+.job-title {
+  animation: moveFromRight 2s;
+  -webkit-animation: moveFromRight 2s;
+  color: #fff;
+  font-size: 30px;
+  padding-top: 5px;
+}
+.my-links{
+  animation: moveFromLeft 2s;
+  -webkit-animation: moveFromLeft 2s;
+  color: #fff;
+  font-size: 17px;
+  padding-top: 10px;
+}
+.my-links a{
+  color: #fff;
+}
+@keyframes moveFromRight {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+
+@-webkit-keyframes moveFromRight {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+@keyframes moveFromLeft {
+  from {
+    -webkit-transform: translatex(0);
+    -moz-transform: translatex(0);
+    -o-transform: translatex(0);
+    transform: translatex(0);
+
+}
+to {
+  -webkit-transform: translatex(100%);
+  -moz-transform: translatex(100%);
+  -o-transform: translatex(100%);
+  transform: translatex(100%);
+}
+}
+
+@-webkit-keyframes moveFromLeft {
+  from {
+    -webkit-transform: translatex(0);
+    -moz-transform: translatex(0);
+    -o-transform: translatex(0);
+    transform: translatex(0);
+  }
+  to {
+    -webkit-transform: translatex(100%);
+    -moz-transform: translatex(100%);
+    -o-transform: translatex(100%);
+    transform: translatex(100%);
+
+  }
 }

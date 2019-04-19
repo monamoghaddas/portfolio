@@ -8,10 +8,16 @@ class App extends Component {
       <div className="Portfolio">
         <header className="pf-header overlay">
           <div className="container">
-            <div class="animate fullname">
-			           <span>M</span><span>O</span><span>N</span><span>A</span> &nbsp;
-			           <span>M</span><span>O</span><span>G</span><span>H</span><span>A</span><span>D</span>
-                 <span>D</span><span>A</span><span>S</span>
+            <div className="animate fullname">
+			           <span>M</span><span>y</span>&nbsp;<span>N</span><span>a</span>
+			           <span>m</span><span>e</span>&nbsp;<span>I</span><span>s</span>&nbsp;<span>M</span><span>O</span>
+                 <span>N</span><span>A</span>
+            </div>
+            <div className="job-title">
+              I'm a Front-end developer
+            </div>
+            <div className="my-links">
+              Find me at <a href="https://www.linkedin.com/in/mona-moghaddas-0a05696b/">Linkedin</a>
             </div>
         </div>
         </header>
