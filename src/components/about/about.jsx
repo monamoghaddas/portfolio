@@ -35,7 +35,7 @@ Responsible person with good communication and collaboration capability.
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                    <a href="/MONA-CV.pdf" className="button" target="_blank"><i className="fa fa-download" />Download Resume</a>
                   </p>
                 </div>
               </div> {/* end row */}

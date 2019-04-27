@@ -122,13 +122,13 @@ CSS,HTML,JavaScript,Photoshop,Wordpress,Responsive Design,DevExpress
             </p>
             <div className="bars">
               <ul class="skills">
-   					   <li><span class="bar-expand Html"></span><em>Html</em></li>
-                     <li><span class="bar-expand Css"></span><em>CSS</em></li>
+   					   <li><span class="bar-expand html"></span><em>Html</em></li>
+                     <li><span class="bar-expand css"></span><em>CSS</em></li>
    						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
-   						<li><span class="bar-expand Css3"></span><em>CSS3</em></li>
-   						<li><span class="bar-expand Html5"></span><em>HTML5</em></li>
+   						<li><span class="bar-expand css3"></span><em>CSS3</em></li>
+   						<li><span class="bar-expand html5"></span><em>HTML5</em></li>
                      <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
-                     <li><span class="bar-expand JavaScript"></span><em>JavaScript</em></li>
+                     <li><span class="bar-expand javaScript"></span><em>JavaScript</em></li>
                      <li><span class="bar-expand reactJs"></span><em>ReactJS</em></li>
    					</ul>
             </div>{/* end skill-bars */}
