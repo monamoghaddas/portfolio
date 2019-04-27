@@ -15,25 +15,25 @@ class Resume extends React.Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>University of Life</h3>
-                <p className="info">Master in Graphic Design <span>•</span> <em className="date">April 2007</em></p>
+                <h3>Azad University of IRAN</h3>
+                <p className="info">Bachlor in Computer Engineering <span>•</span> <em className="date">July 2008</em></p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  Headquartered in Tehran, Iran, the Islamic Azad University is the world's sixth-largest university.It has an enrollment of 1.3 million students.
+                  Since its inception in 1982, it has grown both physically and academically to become one of the largest higher education institutions globally. Over the years, IAU has promoted 'higher education for all' as its key objective. IAU has two independent and 31 state university branches across Iran, and four branches in other countries: the U.A.E., the United Kingdom, Lebanon and Afghanistan
+                  The certificates issued by this university are recognized by the Ministry of Science, Research and Technology.
+                  Azad University admits students through the National Wide Entrance Examination held by the National (Iranian) Organization of Educational Testing.
                 </p>
               </div>
             </div> {/* item end */}
             <div className="row item">
               <div className="twelve columns">
-                <h3>School of Cool Designers</h3>
-                <p className="info">B.A. Degree in Graphic Design <span>•</span> <em className="date">March 2003</em></p>
+                <h3>School of Programming (FAD)</h3>
+                <p className="info">Some Degrees in Programming <span>•</span> <em className="date">March 2013</em></p>
                 <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                  The company is beyond the knowledge of the first specialized consulting center - Visual Studio .NET & SQL ,Programming,Server support and training in Iran.
+                   In August 2000, with the aim of expanding the knowledge of software and preparing software professionals for optimal use of Microsoft .Net environment.
+                   It was established and further, according to the need for the labor market, training courses for analyzing and designing software, Java and Android,
+                   and more recently the network were added to our training web courses.
                 </p>
               </div>
             </div> {/* item end */}
@@ -48,26 +48,65 @@ class Resume extends React.Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>Awesome Design Studio</h3>
-                <p className="info">Senior UX Designer <span>•</span> <em className="date">March 2010 - Present</em></p>
+                <h3>Maternity and Parental leave, Vancouver, Canada</h3>
+                <p className="info">Front end Developer and designer <span>•</span> <em className="date">February 2018 - Present</em></p>
+              </div>
+            </div> {/* item end */}
+            <div className="row item">
+              <div className="twelve columns">
+                <h3>Plan Box, Montreal, Canada</h3>
+                <p className="info">Front end Developer and designer <span>•</span> <em className="date">October 2015 - February 2018</em></p>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-                  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis,
-                  ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-                  Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede mollis pretium.
+                  Design and Add new feature to applications(Using Javascripts,Html,Css,Sass,animations).
+Adding new features with ReactJS(Notification of events which happened to each idea related to that person,Profile page,A page of several ideals which the design looked like netflix movies lists,There were couple of rows of ideas and on hover of each tile it became larger and ability to do like,favorite,..)
+Converting the mocks to the codes.
+R&D, Test and develop new technologies.
+Test and debug applications.
+Some c# experience to access to db to show on the UI layer.
+Preparing Mock ups for different clients and start coding after approving.
                 </p>
               </div>
             </div> {/* item end */}
             <div className="row item">
               <div className="twelve columns">
-                <h3>Super Cool Studio</h3>
-                <p className="info">UX Designer <span>•</span> <em className="date">March 2007 - February 2010</em></p>
+                <h3>REOL,Montreal,Canada</h3>
+                <p className="info">Front end Developer <span>•</span> <em className="date">May 2015 - September 2015</em></p>
                 <p>
-                  This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                  Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
-                  nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan
-                  ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat
+                  Converting the Mocks to the codes for couple of real states websites
+Updating or adding pages in wordpress for some clients.
+Work with Javascript libraries
+CSS,HTML,JavaScript,Photoshop,Wordpress,API,Responsive Design(using bootstrap or media queries)
                 </p>
+              </div>
+            </div> {/* item end */}
+            <div className="row item">
+              <div className="twelve columns">
+                <h3>Coginov,Montreal,Canada</h3>
+                <p className="info">Front end Developer and designer <span>•</span> <em className="date">October 2014 - April 2015</em></p>
+                <p>
+                  Design and Add new features and pages to application.
+Work with Javascript libraries
+CSS,HTML,JavaScript,Photoshop,Wordpress,API,Responsive Design
+C#
+                </p>
+              </div>
+            </div> {/* item end */}
+            <div className="row item">
+              <div className="twelve columns">
+                <h3>Scania(Mammut Diesel),Tehran,Iran</h3>
+                <p className="info">Front end Developer <span>•</span> <em className="date">Augest 2012 - April 2014</em></p>
+                <p>
+                  Design and Add new features and pages to entire ERP modules.
+Work with Javascript libraries
+CSS,HTML,JavaScript,Photoshop,Wordpress,Responsive Design,DevExpress
+
+                </p>
+              </div>
+            </div> {/* item end */}
+            <div className="row item">
+              <div className="twelve columns">
+                <h3>More Companies</h3>
+                <p className="info">Front end Developer <span>•</span> <em className="date">July 2008 - Augest 2012</em></p>
               </div>
             </div> {/* item end */}
           </div> {/* main-col end */}
@@ -79,20 +118,19 @@ class Resume extends React.Component {
             <h1><span>Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-              eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
-              voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-              voluptatem sequi nesciunt.
+            <p>My skills are as below and beside them I have skills in responsive design,working with API,Version Control,mySql,Adobe xd and Photoshop.
             </p>
             <div className="bars">
-              <ul className="skills">
-                <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
-                <li><span className="bar-expand illustrator" /><em>Illustrator</em></li>
-                <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
-                <li><span className="bar-expand css" /><em>CSS</em></li>
-                <li><span className="bar-expand html5" /><em>HTML5</em></li>
-                <li><span className="bar-expand jquery" /><em>jQuery</em></li>
-              </ul>
+              <ul class="skills">
+   					   <li><span class="bar-expand Html"></span><em>Html</em></li>
+                     <li><span class="bar-expand Css"></span><em>CSS</em></li>
+   						<li><span class="bar-expand wordpress"></span><em>Wordpress</em></li>
+   						<li><span class="bar-expand Css3"></span><em>CSS3</em></li>
+   						<li><span class="bar-expand Html5"></span><em>HTML5</em></li>
+                     <li><span class="bar-expand jquery"></span><em>jQuery</em></li>
+                     <li><span class="bar-expand JavaScript"></span><em>JavaScript</em></li>
+                     <li><span class="bar-expand reactJs"></span><em>ReactJS</em></li>
+   					</ul>
             </div>{/* end skill-bars */}
           </div> {/* main-col end */}
         </div> {/* End skills */}
