@@ -32,7 +32,7 @@ class Header extends React.Component {
       <div className="row banner">
         <div className="banner-text">
               <div className="container">
-                <h1 className="animate fullname responsive-headline">
+                <h1 className="animate fullname">
                   <span>M</span>
                   <span>y</span>&nbsp;<span>N</span>
                   <span>a</span>
