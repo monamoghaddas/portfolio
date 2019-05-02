@@ -326,6 +326,12 @@
    footer .social-links { font-size: 22px; }
    footer .social-links li { margin-left: 18px; }
 
+   /*Works
+   ----------------------------------------------------------------------- */
+   .portfolio-item .item-wrap img{
+     width: 100%;
+   }
+
    /* Go To Top Button */
    #go-top { margin-left: -22px; }
    #go-top a {
@@ -358,11 +364,7 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
-   /*Works
-   ----------------------------------------------------------------------- */
-   .portfolio-item .item-wrap img{
-     width: 100%;
-   }
+
 
    /* header social links */
    header .social { font-size: 20px;}
