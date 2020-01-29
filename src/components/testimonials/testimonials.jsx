@@ -35,7 +35,7 @@ class Testimonials extends React.Component {
                   </li>
                   <li>
                     <blockquote>
-                      <p>I worked with Mona for 2 years, and she is wonderful to work with. Mona is passionate, motivated and very capable. She is very nice to work with. I find her capable of adapting to new working environments with a very positive attitude towards work. She is definitely a great asset for any team she works with.
+                      <p>I had the pleasure to work with Mona over the last 6 months and I can't recommend her enough as a frontend developer. Not only is she capable, smart and has an eye for design and detail—but she is also a pleasure to work with.
                       </p>
                       <cite><a href="https://www.linkedin.com/in/sdsgraves/" target="_blank">Steve</a></cite>
                     </blockquote>
