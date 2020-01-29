@@ -25,7 +25,21 @@ class Testimonials extends React.Component {
                       </p>
                       <cite><a href="https://www.linkedin.com/in/royakalbassi/" target="_blank">Roya Kalbasi</a></cite>
                     </blockquote>
-                  </li> {/* slide ends */}
+                  </li>
+                  <li>
+                    <blockquote>
+                      <p>Highly skilled front-end web developer. Mona is responsible and a pleasure to work with. Would hire Mona again in the future.
+                      </p>
+                      <cite><a href="https://www.linkedin.com/in/sasadjolic/" target="_blank">Sasa</a></cite>
+                    </blockquote>
+                  </li>
+                  <li>
+                    <blockquote>
+                      <p>I worked with Mona for 2 years, and she is wonderful to work with. Mona is passionate, motivated and very capable. She is very nice to work with. I find her capable of adapting to new working environments with a very positive attitude towards work. She is definitely a great asset for any team she works with.
+                      </p>
+                      <cite><a href="https://www.linkedin.com/in/sdsgraves/" target="_blank">Steve</a></cite>
+                    </blockquote>
+                  </li>
                   <li>
                     <blockquote>
                       <p>Mona is a talented web developer, hard working and

@@ -56,10 +56,20 @@ class Resume extends React.Component {
         <div className="nine columns main-col">
           <div className="row item">
             <div className="twelve columns">
+              <h3>Kater(Monark Group), Vancouver, Canada</h3>
+              <p className="info">Front end Developer
+                <span>•</span>
+                <em className="date">September 2019 - January 2020</em>
+              </p>
+              <p>Developing Front-End of a new application(Driver's onboarding) and adding features to existing applications.</p>
+            </div>
+          </div>
+          <div className="row item">
+            <div className="twelve columns">
               <h3>Maternity and Parental leave, Vancouver, Canada</h3>
               <p className="info">Front end Developer and designer
                 <span>•</span>
-                <em className="date">February 2018 - Present</em>
+                <em className="date">February 2018 - August 2019</em>
               </p>
             </div>
           </div>
@@ -146,6 +156,22 @@ class Resume extends React.Component {
           <div className="bars">
             <ul class="skills">
               <li>
+                <span class="bar-expand reactJs"></span>
+                <em>React</em>
+              </li>
+              <li>
+                <span class="bar-expand restApi"></span>
+                <em>Rest API</em>
+              </li>
+              <li>
+                <span class="bar-expand styledComponent"></span>
+                <em>Styled Component</em>
+              </li>
+              <li>
+                <span class="bar-expand responsive"></span>
+                <em>Responsive Design(Bootstrap,Media Queries)</em>
+              </li>
+              <li>
                 <span class="bar-expand html5"></span>
                 <em>HTML5</em>
               </li>
@@ -156,10 +182,6 @@ class Resume extends React.Component {
               <li>
                 <span class="bar-expand less-sass"></span>
                 <em>Less/Sass</em>
-              </li>
-              <li>
-                <span class="bar-expand reactJs"></span>
-                <em>ReactJS</em>
               </li>
               <li>
                 <span class="bar-expand html"></span>

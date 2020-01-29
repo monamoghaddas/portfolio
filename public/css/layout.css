@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   /*background: #161415 url(../images/photo-1449100840062-49e9aca7c8ec.jpeg) no-repeat top center;*/
+   background: #161415 url(../images/header-bg.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -58,7 +58,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 90px/1.1em 'Montserrat';
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -370,6 +370,23 @@ ul#nav li.current a { color: #F06000; }
   -moz-animation: less-sass 2s ease;
   -webkit-animation: less-sass 2s ease;
 }
+.restApi{
+  width: 60%;
+  -moz-animation: less-sass 2s ease;
+  -webkit-animation: less-sass 2s ease;
+}
+.styledComponent{
+  width: 70%;
+  -moz-animation: less-sass 2s ease;
+  -webkit-animation: less-sass 2s ease;
+}
+.responsive{
+  width: 90%;
+  -moz-animation: less-sass 2s ease;
+  -webkit-animation: less-sass 2s ease;
+}
+
+
 
 @-moz-keyframes html {
   0%   { width: 0px;  }
@@ -402,6 +419,18 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes reactJs {
   0%   { width: 0px;  }
   100% { width: 70%;  }
+}
+@-moz-keyframes restApi {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-moz-keyframes styledComponent {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes responsive {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 @-moz-keyframes less-sass {
   0%   { width: 0px;  }
@@ -439,6 +468,18 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes reactJs {
   0%   { width: 0px;  }
   100% { width: 70%;  }
+}
+@-webkit-keyframes restApi {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+@-webkit-keyframes styledComponent {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes responsive {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
 }
 @-webkit-keyframes less-sass {
   0%   { width: 0px;  }
